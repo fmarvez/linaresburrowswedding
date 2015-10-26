@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" class="home">
+<html lang="en" class="<?php echo bodyClass($nav); ?>">
     <head>
       <meta charset="utf-8">
       <title>Rebecca Linares &amp; Nicholas Burrows</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyDdpT1nmtkTb3YwfoTWR4S81rMjWvVeK8Y&amp;sensor=false"></script>
       <link rel="stylesheet" href="/css/style.css">
+      <link rel="stylesheet" href="/css/style2.css">
     </head>
     <body>
 <header id="header">
@@ -36,24 +37,24 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active">
+                    <li class="<?php echo checkActive("home"); ?>">
                         <a href="/">Home</a>
                     </li>
 
-                    <li class="">
-                        <a href="/location">Location and Travel</a>
+                    <li class="<?php echo checkActive("ceremony"); ?>">
+                        <a href="/ceremony.php">Ceremony &amp; Reception</a>
                     </li>
 
-
-                    <li class="">
-                        <a href="/accommodations">Hotel</a>
+                    <li class="<?php echo checkActive("accommodations"); ?>">
+                        <a href="/lodging.php">Accomodations</a>
                     </li>
 
-
-                    <li class="">
-                        <a href="/registry">Gift Registry</a>
+                    <li class="<?php echo checkActive("travel"); ?>">
+                        <a href="/travel.php">Travel</a>
                     </li>
-
+                    <li class="<?php echo checkActive("registry"); ?>">
+                        <a href="/registry.php">Registry</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -62,3 +63,28 @@
         </svg>
     </nav>
 </header>
+
+<?php
+
+    function checkActive($item) {
+        global $nav;
+        if($nav == $item) {
+            return "active";
+        }
+        return "";
+    }
+
+    function bodyClass(){
+        global $nav;
+        switch($nav) {
+            case "home":
+                return "home";
+            case "ceremony":
+                return "wedding-party";
+            case "registry":
+                return "wedding-party";
+            case "travel":
+                return "travel";
+        }
+    }
+    ?>
