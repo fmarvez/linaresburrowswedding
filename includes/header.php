@@ -46,7 +46,7 @@
                     </li>
 
                     <li class="<?php echo checkActive("accommodations"); ?>">
-                        <a href="/lodging.php">Accomodations</a>
+                        <a href="/accomodations.php">Accomodations</a>
                     </li>
 
                     <li class="<?php echo checkActive("travel"); ?>">

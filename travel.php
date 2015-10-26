@@ -9,20 +9,20 @@ require_once("includes/header.php");
                 <div class="wedding-party">
                     <div class="wedding-party-attendant m-bg-large-divider-graphic has-bio has-photo">
                         <div class="text-wrap">
-                            <div class="name">
-                                <h4>
-                                Travel goes here
-                                </h4>
-                                <h5>
-                                Maid of Honor
-                                </h5>
-                            </div>
-                            <p class="bio">
-                                Megan and I met during summer school after our freshman year at UCLA—we hit it off and wound up rooming together during junior and senior year. After graduation, we packed up our apartment for San Francisco—we had both gotten our first (grown-up!) jobs in the city and found an apartment together in the Inner Richmond. Our Monday night tradition was pretty much my most favorite thing, ever: pizza from Giorgio’s and the newest episode of The Bachelor.
-                            </p>
+                            <h3>Travel</h3>
+                            
+                            <p>&nbsp;</p>
+                            
+                            <h4>Ceremony &amp; Reception</h4>
+                            <p class="bio">540 Mill Street<br/>Bellville, New Jersey 07109</p>
+                            
+                            <p>&nbsp;</p>
+                            
+                            <h4>Accomodations</h4>
+                            <p class="bio">801 Rutherford Avenue<br/>Rutherford, New Jerysey 07070<br/>(201) 231-3100</p>
                         </div>
                         <div class="photo">
-                            <img src="http://s3.amazonaws.com/uploads.hitchedup.com/attendant_demo_photos/MeganMueller.jpg" alt="Megan Mueller">
+                            <img src="media/PotteryBarn.jpg" alt="Pottery Barn">
                         </div>
                     </div>
                 </div>

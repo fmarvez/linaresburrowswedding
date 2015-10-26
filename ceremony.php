@@ -9,17 +9,25 @@ require_once("includes/header.php");
                 <div class="wedding-party">
                     <div class="wedding-party-attendant m-bg-large-divider-graphic has-bio has-photo">
                         <div class="text-wrap">
-                            <div class="name">
-                                <h4>
-                                Megan Mueller
-                                </h4>
-                                <h5>
-                                Maid of Honor
-                                </h5>
-                            </div>
-                            <p class="bio">
-                                Megan and I met during summer school after our freshman year at UCLA—we hit it off and wound up rooming together during junior and senior year. After graduation, we packed up our apartment for San Francisco—we had both gotten our first (grown-up!) jobs in the city and found an apartment together in the Inner Richmond. Our Monday night tradition was pretty much my most favorite thing, ever: pizza from Giorgio’s and the newest episode of The Bachelor.
-                            </p>
+
+                            <h5>Mr &amp; Mrs Jaime Linares<br/>and<br/>Mr &amp; Mrs Colin Burrows<br/>request the pleasure of your company<br/>for the marriage of their children.</h5>
+                            
+                            <p>&nbsp;</p>
+                            
+                            <h3>Ceremony</h3>
+                            <h5>Nanina's In The Park</h5>
+                            <p class="bio">Friday, the Twenty-Sixth of February<br/>Two Thousand and Sixteen<br/>Six o'clock in the evening</p>
+                            
+                            <p>&nbsp;</p>
+                            
+                            <h3>Reception</h3>
+                            <h5>Nanina's In The Park</h5>
+                            <p class="bio">Our celebration continues at Seven o'clock with cocktail hour.<br/>Followed by dinner and dancing in the main ballroom.</p>
+                            
+                            <p>&nbsp;</p>
+                            
+                            <h3>Attire</h3>
+                            <p class="bio">Black Tie Optional</p>
                         </div>
                         <div class="photo">
                             <img src="http://s3.amazonaws.com/uploads.hitchedup.com/attendant_demo_photos/MeganMueller.jpg" alt="Megan Mueller">

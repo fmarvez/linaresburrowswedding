@@ -17,8 +17,10 @@ require_once("includes/header.php");
         <div class="row">
             <div class="content">
                 <h2>
-                    <span class="m-secondary-text">Please join us for our wedding celebration on</span> Feburary Twenty Sixth, Two Thousand and Sixteen
+                    <span class="m-secondary-text">Mr &amp; Mrs Jaime Linares<br/>and<br/> Mr &amp; Mrs Colin Burrows</span>
                 </h2>
+                <p>Request the pleasure of your company<br/>for the marriage of their children</p>
+                <h3>Friday, the Twenty-Sixth of February<br/>Two Thousand and Sixteen<br/>Six o'clock in the evening</h3>
                 <div class="m-small-graphic"></div>
                 <h3>
                     Our Story
