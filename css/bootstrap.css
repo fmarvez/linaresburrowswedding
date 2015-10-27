@@ -8424,7 +8424,7 @@ tr#header nav.navbar svg {
   }
 
   #header div.hero span.m-secondary-text {
-    font-size: 17.5px;
+    font-size: 21px;
   }
 }
 
@@ -8484,7 +8484,7 @@ html.guest-login #guest-login div.main div.form {
 
 @media (min-width: 1200px) {
   html.home #header div.hero span.m-hero-text {
-    font-size: 48px;
+    font-size: 40px;
   }
 
   html.home #header div.hero span.m-secondary-text {
