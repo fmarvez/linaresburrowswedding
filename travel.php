@@ -11,7 +11,7 @@ require_once("includes/header.php");
                         <div class="text-wrap">
                             <h3>Ceremony &amp; Reception</h3>
                             <h5>Nanina's In The Park</h5>
-                            <p class="bio">540 Mill Street<br/>Belleville, New Jersey 07109</p>
+                            <a href=https://goo.gl/maps/crMzyuo1KCA2 class="bio" target="_blank">540 Mill Street<br/>Belleville, New Jersey 07109</a>
 
                             <p>&nbsp;</p>
 

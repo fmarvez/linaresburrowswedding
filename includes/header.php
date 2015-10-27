@@ -16,9 +16,9 @@
                 <h1>
                     <span class="m-hero-text" style="margin-bottom: 10px !important">Rebecca &amp; Nicholas<span/>
                 </h1>
-                <h1>
-                    <span class="m-hero-text">February, 26 2016<span/>
-                </h1>
+                <h2 style="margin-bottom: -10px !important">
+                    February 26, 2016
+                </h2>
             </div>
         </div>
     </div>
