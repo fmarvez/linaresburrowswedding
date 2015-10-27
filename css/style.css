@@ -8513,14 +8513,13 @@ html.home #content div.photo {
 
 @media (min-width: 768px) {
   html.home #content div.photo {
-    float: left;
-    width: 83.33333333%;
+    width: 60%;
   }
 }
 
 @media (min-width: 768px) {
   html.home #content div.photo {
-    margin-left: 8.33333333%;
+    margin-left: 20%;
   }
 }
 
@@ -9286,6 +9285,7 @@ html.wedding-party #content div.text-wrap {
   min-height: 1px;
   padding-left: 15px;
   padding-right: 15px;
+  text-align: center;
 }
 
 @media (min-width: 768px) {

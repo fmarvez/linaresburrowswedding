@@ -30,7 +30,7 @@ require_once("includes/header.php");
                             <p class="bio">Black Tie Optional</p>
                         </div>
                         <div class="photo">
-                            <img src="http://s3.amazonaws.com/uploads.hitchedup.com/attendant_demo_photos/MeganMueller.jpg" alt="Megan Mueller">
+                            <img src="media/head.jpg">
                         </div>
                     </div>
                 </div>

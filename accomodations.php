@@ -11,13 +11,16 @@ require_once("includes/header.php");
                         <div class="text-wrap">
                             <h3>Accomodations</h3>
                             <h5>Renaissance Meadowlands Hotel</h5>
-                            <p class="bio">Rooms have been reserved at the Renaissance Meadowlands Hotel.</p>
-                            <p class="bio">Reference the Linares-Burrows wedding to receive a special rate by January 26th.</p>
-                            <p class="bio">801 Rutherford Avenue<br/>Rutherford, New Jerysey 07070<br/>(201) 231-3100</p>
-                            <p class="bio">Transportation will be provided to and from Nanina's In The Park and the hotel.</p>
+                            <p>&nbsp;</p>
+                            <p class="bio">Rooms have been reserved at the<br/>Renaissance Meadowlands Hotel.</p>
+                            <p class="bio">Reference the Linares-Burrows wedding<br/>to receive a special rate by January 26th.</p>
+                            <p>&nbsp;</p>
+                            <p class="bio">801 Rutherford Avenue<br/>Rutherford, New Jersey 07070<br/>(201) 231-3100</p>
+                            <p>&nbsp;</p>
+                            <p class="bio">Transportation will be provided to and from<br/>Nanina's In The Park and the hotel.</p>
                         </div>
                         <div class="photo">
-                            <img src="http://s3.amazonaws.com/uploads.hitchedup.com/attendant_demo_photos/MeganMueller.jpg" alt="Megan Mueller">
+                            <img src="media/nick.jpg">
                         </div>
                     </div>
                 </div>
