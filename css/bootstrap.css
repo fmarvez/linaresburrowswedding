@@ -8174,7 +8174,7 @@ label {
 }
 
 #footer {
-  padding-top: 40px;
+  padding-top: 10px;
 }
 
 #footer svg.border {
@@ -8217,7 +8217,7 @@ label {
 
 @media (min-width: 768px) {
   #footer {
-    padding-top: 60px;
+    padding-top: 10px;
   }
 }
 
