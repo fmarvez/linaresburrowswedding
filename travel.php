@@ -1,5 +1,5 @@
 <?php
-$nav = "registry";
+$nav = "travel";
 require_once("includes/header.php");
 ?>
 <section id="content">
@@ -24,7 +24,7 @@ require_once("includes/header.php");
                             <p class="bio">801 Rutherford Avenue<br/>Rutherford, New Jerysey 07070<br/>(201) 231-3100</p>
                         </div>
                         <div class="photo">
-                            <img src="media/PotteryBarn.jpg" alt="Pottery Barn">
+                            <iframe src="https://mapsengine.google.com/map/u/0/embed?mid=z0gC2kLtVKLk.kKQK8g7wrRV0" width="480" height="480"></iframe>
                         </div>
                     </div>
                 </div>

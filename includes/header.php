@@ -5,7 +5,7 @@
       <title>Rebecca &amp; Nicholas</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyDdpT1nmtkTb3YwfoTWR4S81rMjWvVeK8Y&amp;sensor=false"></script>
-      <link rel="stylesheet" href="/css/style.css">
+      <link rel="stylesheet" href="/css/bootstrap.css">
       <link rel="stylesheet" href="/css/style2.css">
     </head>
     <body>
@@ -45,7 +45,7 @@
                         <a href="/ceremony.php">Ceremony &amp; Reception</a>
                     </li>
 
-                    <li class="<?php echo checkActive("accommodations"); ?>">
+                    <li class="<?php echo checkActive("accomodations"); ?>">
                         <a href="/accomodations.php">Accomodations</a>
                     </li>
 
@@ -82,9 +82,9 @@
             case "ceremony":
                 return "wedding-party";
             case "registry":
-                return "wedding-party";
             case "travel":
-                return "travel";
+            case "accomodations":
+                return "wedding-party";
         }
     }
     ?>

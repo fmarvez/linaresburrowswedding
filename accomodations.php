@@ -1,5 +1,5 @@
 <?php
-$nav = "registry";
+$nav = "accomodations";
 require_once("includes/header.php");
 ?>
 <section id="content">

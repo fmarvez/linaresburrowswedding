@@ -14,7 +14,7 @@ require_once("includes/header.php");
         </div>
         <div class="row">
             <div class="content">
-                <h1 style= text-align:center;>Rebecca and Nicholas<br/>are getting married</h1>
+                <h1 style= text-align:center;>February, 26 2015</h1>
             </div>
         </div>
     </div>
