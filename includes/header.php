@@ -14,7 +14,10 @@
         <div class="m-container-hero m-sm-frame-hero">
             <div class="m-content-hero">
                 <h1>
-                    <span class="m-hero-text">Rebecca Linares</span> <span class="m-secondary-text">and</span> <span class="m-hero-text">Nicholas Burrows</span>
+                    <span class="m-hero-text" style="margin-bottom: 10px !important">Rebecca &amp; Nicholas<span/>
+                </h1>
+                <h1>
+                    <span class="m-hero-text">February, 26 2016<span/>
                 </h1>
             </div>
         </div>

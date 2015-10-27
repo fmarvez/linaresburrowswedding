@@ -1,3 +1,6 @@
+hr {
+  size: 5px;
+}
 
 body,
 .m-base {
@@ -10,7 +13,7 @@ body,
 
 body a,
 .m-base a {
-  color: #a0babd;
+  color: #555;
 }
 
 body a:focus,
@@ -19,7 +22,7 @@ body a:hover,
 .m-base a:focus,
 .m-base a:active,
 .m-base a:hover {
-  color: #b8cbce;
+  color: black;
 }
 
 body button,
@@ -103,7 +106,7 @@ body .m-btn:active,
 .m-nav-base a.active:focus,
 .m-nav-base a.active:active,
 .m-nav-base a.active:hover {
-  color: #b8cbce;
+  color: black;
 }
 
 .m-fg-base {
@@ -121,7 +124,7 @@ body .m-btn:active,
 .m-link-base:focus,
 .m-link-base:active,
 .m-link-base:hover {
-  color: #b8cbce !important;
+  color: black !important;
 }
 
 .m-bg-base {
@@ -195,7 +198,7 @@ body .m-btn:active,
 .m-container-soft a:focus,
 .m-container-soft a:active,
 .m-container-soft a:hover {
-  color: #b8cbce;
+  color: black;
 }
 
 .m-container-soft button,
@@ -267,7 +270,7 @@ body .m-btn:active,
 .m-container-nav-soft a.active:focus,
 .m-container-nav-soft a.active:active,
 .m-container-nav-soft a.active:hover {
-  color: #b8cbce;
+  color: black;
 }
 
 .m-fg-soft {
@@ -285,7 +288,7 @@ body .m-btn:active,
 .m-link-soft:focus,
 .m-link-soft:active,
 .m-link-soft:hover {
-  color: #b8cbce !important;
+  color: black !important;
 }
 
 .m-bg-soft {
@@ -397,7 +400,7 @@ body .m-btn:active,
 .m-container-nav-medium a:focus,
 .m-container-nav-medium a:active,
 .m-container-nav-medium a:hover {
-  color: #b8cbce;
+  color: black;
 }
 
 .m-container-nav-medium .nav > li > a:focus,
@@ -561,7 +564,7 @@ body .m-btn:active,
 .m-container-nav-loud a:focus,
 .m-container-nav-loud a:active,
 .m-container-nav-loud a:hover {
-  color: #b8cbce;
+  color: black;
 }
 
 .m-container-nav-loud .nav > li > a:focus,
@@ -690,7 +693,7 @@ body .m-btn:active,
 .m-container-hero a:focus,
 .m-container-hero a:active,
 .m-container-hero a:hover {
-  color: #b8cbce;
+  color: black;
 }
 
 .m-container-hero button,
@@ -712,7 +715,7 @@ body .m-btn:active,
 @media screen and (min-width: 768px) {
   .m-container-hero {
     background-size: 1600px 800px, auto;
-    padding: 110px 0 30px 0;
+    padding: 130px 0 30px 0;
   }
 }
 
@@ -765,7 +768,7 @@ body .m-btn:active,
 .m-link-hero:focus,
 .m-link-hero:active,
 .m-link-hero:hover {
-  color: #b8cbce !important;
+  color: black !important;
 }
 
 .m-bg-hero {

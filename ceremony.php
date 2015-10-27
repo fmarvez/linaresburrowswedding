@@ -9,7 +9,7 @@ require_once("includes/header.php");
                 <div class="wedding-party">
                     <div class="wedding-party-attendant m-bg-large-divider-graphic has-bio has-photo">
                         <div class="text-wrap">
-                            <h4>
+                            <!--<h4>
                                 <span class="m-secondary-text" style="margin-bottom: 10px !important">Mr &amp; Mrs Jaime Linares</span>
                             </h4>
                             <span class="m-secondary-text">and</span>
@@ -19,7 +19,7 @@ require_once("includes/header.php");
                                 <span class="m-secondary-text">
                                 request the pleasure of your company<br/>for the marriage of their   children.
                                 </span>
-                            <hr/>
+                            <hr/>-->
                             <h3>Ceremony</h3>
                             <h5>Nanina's In The Park</h5>
                             <p class="bio">Friday, the Twenty-Sixth of February<br/>Two Thousand and Sixteen<br/>Six o'clock in the evening</p>
