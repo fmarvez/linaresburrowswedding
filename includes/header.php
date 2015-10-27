@@ -6,7 +6,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyDdpT1nmtkTb3YwfoTWR4S81rMjWvVeK8Y&amp;sensor=false"></script>
       <link rel="stylesheet" href="/css/bootstrap.css">
-      <link rel="stylesheet" href="/css/style2.css">
+      <link rel="stylesheet" href="/css/style.css">
     </head>
     <body>
 <header id="header">

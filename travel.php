@@ -21,10 +21,10 @@ require_once("includes/header.php");
 
                             <h3>Accomodations</h3>
                             <h5>Renaissance Meadowlands Hotel</h5>
-                            <p class="bio">801 Rutherford Avenue<br/>Rutherford, New Jerysey 07070<br/>(201) 231-3100</p>
+                            <p class="bio">801 Rutherford Avenue<br/>Rutherford, New Jersey 07070<br/>(201) 231-3100</p>
                         </div>
                         <div class="photo">
-                            <iframe src="https://mapsengine.google.com/map/u/0/embed?mid=z0gC2kLtVKLk.kKQK8g7wrRV0" width="480" height="480"></iframe>
+                            <iframe src="https://mapsengine.google.com/map/u/0/embed?mid=z0gC2kLtVKLk.kKQK8g7wrRV0" width="380" height="380"></iframe>
                         </div>
                     </div>
                 </div>
