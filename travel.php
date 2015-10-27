@@ -10,15 +10,15 @@ require_once("includes/header.php");
                     <div class="wedding-party-attendant m-bg-large-divider-graphic has-bio has-photo">
                         <div class="text-wrap">
                             <h2>Travel</h2>
-                            
+
                             <p>&nbsp;</p>
-                            
+
                             <h3>Ceremony &amp; Reception</h3>
                             <h5>Nanina's In The Park</h5>
                             <p class="bio">540 Mill Street<br/>Bellville, New Jersey 07109</p>
-                            
+
                             <p>&nbsp;</p>
-                            
+
                             <h3>Accomodations</h3>
                             <h5>Renaissance Meadowlands Hotel</h5>
                             <p class="bio">801 Rutherford Avenue<br/>Rutherford, New Jerysey 07070<br/>(201) 231-3100</p>
