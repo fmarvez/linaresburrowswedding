@@ -24,18 +24,7 @@
             <rect opacity="0.1" width="100%" height="1">
         </svg>
         <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle m-bg-inverse-base m-border-base" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar m-bg-color-opaque-base"></span>
-                    <span class="icon-bar m-bg-color-opaque-base"></span>
-                    <span class="icon-bar m-bg-color-opaque-base"></span>
-                </button>
-                <p class="navbar-text">
-                    Menu
-                </p>
-            </div>
-            <div class="collapse navbar-collapse">
+            <div class="navbar">
                 <ul class="nav navbar-nav">
                     <li class="<?php echo checkActive("home"); ?>">
                         <a href="/">Home</a>
