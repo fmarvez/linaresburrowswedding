@@ -17,7 +17,7 @@ require_once("includes/header.php");
                         <div class="text-wrap">
                             <h5>Pottery Barn</h5>
                             <p class="bio">Search for our names on the site<br/>or print our registry in the store.</p>
-                            <p><a class="btn m-btn-base" href="http://www.potterybarn.com/registry/find-registry.html" target="_blank">View Registry</a></p> 
+                            <p><a class="btn m-btn-base" href="http://www.potterybarn.com/registry/3778403/registry-list.html" target="_blank">View Registry</a></p> 
                         </div>
                         
                         <div class="photo">
@@ -26,13 +26,13 @@ require_once("includes/header.php");
                         </div>
                         
                         <div class="text-wrap">
-                            <h5>Macy's</h5>
+                            <h5>Restoration Hardware</h5>
                             <p class="bio">Search for our names on the site<br/>or print our registry in the store.</p>
-                            <p><a class="btn m-btn-base" href="https://www.macys.com/wedding-registry?cm_sp=global_nav_reg-_-wedding_registry-_-n" target="_blank">View Registry</a></p>
+                            <p><a class="btn m-btn-base" href="https://www.restorationhardware.com/storefront/gift-registry/gift-list.jsp?giftlistId=gl1024487869" target="_blank">View Registry</a></p>
                         </div>
                         
                         <div class="photo">
-                            <img src="media/Macys.jpg" alt="Macy's" style="width:150px">
+                            <img src="media/RestorationHardware.jpg" alt="Restoration Hardware" style="width:150px">
                         </div>
                     </div>
                 </div>
