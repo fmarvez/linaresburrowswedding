@@ -16,8 +16,8 @@ require_once("includes/header.php");
                         
                         <div class="text-wrap">
                             <h5>Pottery Barn</h5>
-                            <p class="bio">Search for our names on the site<br/>or print our registry in the store.</p>
-                            <p><a class="btn m-btn-base" href="http://www.potterybarn.com/registry/3778403/registry-list.html" target="_blank">View Registry</a></p> 
+                            <p class="bio">Browse our registry on the Pottery Barn website<br/>or print it in the store.</p>
+                            <p><a class="btn m-btn-base" href="http://www.potterybarn.com/registry/3778403/registry-list.html" target="_blank">View Online Registry</a></p> 
                         </div>
                         
                         <div class="photo">
@@ -27,8 +27,8 @@ require_once("includes/header.php");
                         
                         <div class="text-wrap">
                             <h5>Restoration Hardware</h5>
-                            <p class="bio">Search for our names on the site<br/>or print our registry in the store.</p>
-                            <p><a class="btn m-btn-base" href="https://www.restorationhardware.com/storefront/gift-registry/gift-list.jsp?giftlistId=gl1024487869" target="_blank">View Registry</a></p>
+                            <p class="bio">Browse our registry on the Restoration Hardware website<br/>or print it in the store.</p>
+                            <p><a class="btn m-btn-base" href="https://www.restorationhardware.com/storefront/gift-registry/gift-list.jsp?giftlistId=gl1024901183" target="_blank">View Online Registry</a></p>
                         </div>
                         
                         <div class="photo">

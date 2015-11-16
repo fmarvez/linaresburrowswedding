@@ -165,6 +165,7 @@ body .m-btn:active,
 .m-btn-base:hover,
 .m-btn-base:active {
   color: white !important;
+  background-color: #878787 !important;
 }
 
 .m-svg-base path,
