@@ -4083,10 +4083,10 @@ img {
 }
 
 hr {
-  margin-top: 22px;
-  margin-bottom: 22px;
-  border: 0;
-  border-top: 1px solid #eee;
+  width: 100%;
+  background-color: black;
+  color: black;
+  height: 0.5px;
 }
 
 .sr-only {
