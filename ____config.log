@@ -1,0 +1,19 @@
+#---------------------
+# www.linaresburrowswedding.com
+#---------------------
+
+server {
+        listen 80;
+        server_name _;
+        root /var/www/linaresburrows;
+        index index.php index.html;
+
+        ### PHP / Fast-cgi
+        location ~ \.php$ {
+                try_files $uri =404;
+                fastcgi_pass php-www; # see nginx.conf
+                include fastcgi_settings;
+                include fastcgi_params;
+        }
+}
+
