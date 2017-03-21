@@ -22,7 +22,7 @@ require_once("includes/header.php");
                             <hr/>-->
                             <h3>Ceremony</h3>
                             <h5>Nanina's In The Park</h5>
-                            <p class="bio">Friday, the Twenty-Sixth of February<br/>Two Thousand and Sixteen<br/>Six o'clock in the evening</p>
+                            <p class="bio">Friday, the Twenty-Sixth of January<br/>Two Thousand and Seventeen<br/>Six o'clock in the evening</p>
                             <p>&nbsp;</p>
                             <h3>Reception</h3>
                             <h5>Nanina's In The Park</h5>

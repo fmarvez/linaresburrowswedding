@@ -27,7 +27,7 @@
                     <span class="m-hero-text" style="margin-bottom: 10px !important">Rebecca &amp; Nicholas<span/>
                 </h1>
                 <h2 style="margin-bottom: -10px !important">
-                    February 26, 2016
+                    January 26, 2017
                 </h2>
             </div>
         </div>
