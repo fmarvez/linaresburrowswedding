@@ -2,6 +2,7 @@
 $nav = "ceremony";
 require_once("includes/header.php");
 ?>
+
 <section id="content">
     <div class="container">
         <div class="row">
