@@ -18,6 +18,8 @@ require_once("includes/header.php");
                                                     
                         	<form method="post" action="form.php" class="bio">
                         		Name(s): <input type="text" name="name" size="30">
+                        		<br>
+                        		<span style="font-size: 12px !important;" > Please list names of all who are attending.</span>
                         		<p>&nbsp;<p>
                         		I / We
                         		<select name="cars">
