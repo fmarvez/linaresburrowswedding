@@ -17,20 +17,16 @@ require_once("includes/header.php");
                             <br>  
                                                     
                         	<form method="post" action="form.php" class="bio">
-                        		Name: <input type="text" name="name">
+                        		Name(s): <input type="text" name="name" size="30">
                         		<p>&nbsp;<p>
-                        		I/We
+                        		I / We
                         		<select name="cars">
 									<option value="volvo">will</option>
 									<option value="saab">will not</option>
                         		</select>
                         		be attending.
                         		<p>&nbsp;<p>
-                        		<input type="text" name="beef" size="2"> The Beef Dish<br>
-                        		<input type="text" name="chicken" size="2"> The Chicken Dish<br>
-                        		<input type="text" name="vegetarian" size="2"> The Vegetarian Dish
-                        		<p>&nbsp;<p>
-                        		<input type="submit" value="Submit">
+                        		<input type="submit" value="Submit" class="btn m-btn-base">
                         	</form>
                         	
                         </div>
