@@ -21,6 +21,8 @@ require_once("includes/header.php");
                         		<br>
                         		<span style="font-size: 12px !important;" > Please list names of all who are attending.</span>
                         		<p>&nbsp;<p>
+                        		Total number of guests (including yourself): <input type="text" name="numberguests" size="2" maxlength="1">
+                        		<p>&nbsp;<p>
                         		I / We
                         		<select name="cars">
 									<option value="volvo">will</option>
