@@ -21,7 +21,7 @@ require_once("includes/header.php");
                             <p class="bio">Transportation will be provided to and from<br/>Nanina's In The Park and the hotel.</p>
                         </div>
                         <div class="photo">
-                            <img src="media/nick.jpg">
+                            <img src="media/dip.jpg">
                         </div>
                     </div>
                 </div>

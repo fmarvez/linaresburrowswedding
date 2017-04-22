@@ -33,7 +33,7 @@ require_once("includes/header.php");
                             <p class="bio">Black Tie Optional</p>
                         </div>
                         <div class="photo">
-                            <img src="media/head.jpg">
+                            <img src="media/hands.jpg">
                         </div>
                     </div>
                 </div>

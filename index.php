@@ -9,7 +9,7 @@ require_once("includes/header.php");
     <div class="container">
         <div class="row">
              <div class="photo">
-                <img src="media/bench.jpg" alt="Rebecca and Nick" >
+                <img src="media/lamp.jpg" alt="Rebecca and Nick" >
             </div>
         </div>
     </div>
