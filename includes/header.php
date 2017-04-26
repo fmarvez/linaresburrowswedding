@@ -54,12 +54,16 @@
                     <li class="<?php echo checkActive("travel"); ?>">
                         <a href="/travel.php">Travel</a>
                     </li>
+                    
                     <li class="<?php echo checkActive("registry"); ?>">
                         <a href="/gift-registry.php">Gift Registry</a>
                     </li>
+                    
+                    <!--
                     <li class="<?php echo checkActive("rsvp"); ?>">
                         <a href="/rsvp.php">RSVP</a>
                     </li>
+                    -->
                 </ul>
             </div>
         </div>
