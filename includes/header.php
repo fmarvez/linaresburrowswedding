@@ -5,6 +5,7 @@
       <title>Rebecca &amp; Nicholas</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyDdpT1nmtkTb3YwfoTWR4S81rMjWvVeK8Y&amp;sensor=false"></script>
+      <link href="https://fonts.googleapis.com/css?family=Domine|Pinyon+Script" rel="stylesheet">
       <link rel="stylesheet" href="/css/bootstrap.css">
       <link rel="stylesheet" href="/css/style.css">
     </head>
