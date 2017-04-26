@@ -872,6 +872,7 @@ h6,
 h3 {
   font-family: 'Pinyon Script', cursive;
   text-transform: none;
+  letter-spacing: none;
 }
 
 .m-heading-text {
