@@ -869,7 +869,7 @@ h6,
   letter-spacing: .2em;
 }
 
-h3 {
+h1, h3 {
   font-family: 'Pinyon Script', cursive;
   text-transform: none;
   letter-spacing: 0em;
