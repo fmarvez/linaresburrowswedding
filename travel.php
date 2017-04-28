@@ -14,6 +14,7 @@ require_once("includes/header.php");
                             <a href=https://goo.gl/maps/crMzyuo1KCA2 class="bio" target="_blank">540 Mill Street<br/>Belleville, New Jersey 07109</a>
 
                             <p>&nbsp;</p>
+                            <p>&nbsp;</p>
 
                             <h3>Accomodations</h3>
                             <h5>Renaissance Meadowlands Hotel</h5>
