@@ -875,6 +875,10 @@ h1, h2, h3 {
   letter-spacing: 0em;
 }
 
+h3 {
+  font-size: 32px;
+}
+
 .m-heading-text {
   font-family: 'Century Gothic', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: 400 !important;
