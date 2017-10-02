@@ -30,6 +30,8 @@ require_once("includes/header.php");
                         		</select>
                         		be attending.
                         		<p>&nbsp;<p>
+                        		Email: <input type="text" name="email" size="30">
+                        		<p>&nbsp;<p>
                         		<input type="submit" value="Submit" class="btn m-btn-base">
                         	</form>
                         	
