@@ -19,6 +19,7 @@ require_once("includes/header.php");
                             <p class="bio">Call (201) 231-3100 or <a style="text-decoration:underline;" target="blank" href="http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Linares%20%26%20Burrows%20Wedding%5Eewrbr%60lnblnba%60149%60USD%60false%604%601/26/18%601/27/18%6012/26/17&app=resvlink&stop_mobi=yes">book online</a>.</p>
                             <p>&nbsp;</p>
                             <p class="bio">Transportation will be provided to and from<br/>Nanina's In The Park and the hotel.</p>
+                            <p class="bio">Shuttle will leave hotel at 5:15pm.</p>
                         </div>
                         <div class="photo">
                             <img src="media/dip.jpg">

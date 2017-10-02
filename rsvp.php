@@ -13,25 +13,29 @@ require_once("includes/header.php");
                         <div class="text-wrap">
                         
                             <h3>RSVP</h3>
-                            <h5>Kindly RSVP by December 10 2017</h5>
+                            <h5>Kindly RSVP by December 20 2017</h5>
                             <br>  
                                                     
                         	<form method="post" action="form.php" class="bio">
                         		Name(s): <input type="text" name="name" size="30">
                         		<br>
-                        		<span style="font-size: 12px !important;" > Please list names of all who are attending.</span>
+                        		<span style="font-size: 12px !important;" > Please list full names of all attendees, including guests.</span>
                         		<p>&nbsp;<p>
-                        		Total number of guests (including yourself): <input type="text" name="numberguests" size="2" maxlength="1">
+                        		Total number of attendees (including yourself): <input type="text" name="numberguests" size="2" maxlength="1">
                         		<p>&nbsp;<p>
                         		I / We
-                        		<select name="cars">
-									<option value="volvo">will</option>
-									<option value="saab">will not</option>
+                        		<select name="attend">
+									<option name="yes">will</option>
+									<option name="no">will not</option>
                         		</select>
                         		be attending.
                         		<p>&nbsp;<p>
                         		<input type="submit" value="Submit" class="btn m-btn-base">
                         	</form>
+                        	
+                        	<!--
+                        	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxZN85fLpD55bolcGyWgjtwtbmhyKKRmU4tJnZQJ-jMThn4w/viewform?embedded=true" width="300" height="350" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                        	-->
                         	
                         </div>
                         

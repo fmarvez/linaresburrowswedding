@@ -27,7 +27,7 @@ require_once("includes/header.php");
                             <p>&nbsp;</p>
                             <h3>Cocktail Hour / Reception</h3>
                             <h5>Nanina's In The Park</h5>
-                            <p class="bio">Our celebration continues at Seven o'clock with cocktail hour.<br/>Followed by dinner and dancing in the main ballroom.</p>
+                            <p class="bio">Our celebration continues with cocktail hour<br/>followed by dinner and dancing in the main ballroom.</p>
                             <p>&nbsp;</p>
                             <h3>Attire</h3>
                             <p class="bio">Black Tie Optional</p>
