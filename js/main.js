@@ -8,6 +8,8 @@
 			var attendingStatus = $("#attending-status").val();
 			var formKey = "1QnjFG0I0yozwTTS5zvBZ7SWDAqXjpPtX1-e3st0XWDI";
 
+			if(!validateData()) return;
+
 
 			$.ajax({
 				url: "/includes/submit.php",
@@ -20,8 +22,7 @@
 				},
 		    statusCode: {
 		        0: function() {
-		        	console.log("fail");
-		            //Success message
+		        	validateData();
 		        },
 		        200: function() {
 		        	console.log("success");
@@ -41,9 +42,12 @@
 
 		if(guestNames.length == 0 || numGuests.length == 0){
 			$("#form-error-message").show();
+			return false;
 		} else {
 			$("#form-error-message").hide();
+			return true;
 		}
+		return true;
 	}
 
 

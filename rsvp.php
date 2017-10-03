@@ -17,7 +17,7 @@ require_once("includes/header.php");
                                 <br/>  
                                 <div id="form-error-message">Please check guest names and number of attendees.</div>
                             	<form id="lb-rsvp" class="bio">
-                            		Name(s): <input type="text" name="guest-names" id="guest-names" placeholder="i.e., John Doe, Sarah Smith" size="30">
+                            		Name(s): <input type="text" name="guest-names" id="guest-names" placeholder=" i.e., John Doe, Sarah Smith" size="30">
                             		<br>
                             		<span style="font-size: 12px !important;" > Please list full names of all attendees, including guests.</span>
                             		<p>&nbsp;</p>
