@@ -34,7 +34,7 @@ require_once("includes/header.php");
                             	</form>
                             </div>
                             <div id="form-success">
-                                <h3>Thank you for responding!</h3>
+                                <h1>Thank you for responding!</h1>
                             </div>
                         </div>
                         
