@@ -42,7 +42,7 @@ require_once("includes/header.php");
                         </div>
                         
                         <div class="photo">
-                            <img src="media/head.jpg">
+                            <img src="media/fountain.jpg">
                         </div>
                     </div>
                 </div>
