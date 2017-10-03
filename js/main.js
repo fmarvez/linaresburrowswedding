@@ -32,8 +32,6 @@
 		    }
 			});
 		});
-
-		$("#lb-rsvp input").on("blur", function() { validateData(); });
 	});
 
 	function validateData(){
