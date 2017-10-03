@@ -11,34 +11,31 @@ require_once("includes/header.php");
                     <div class="wedding-party-attendant m-bg-large-divider-graphic has-bio has-photo">
                         
                         <div class="text-wrap">
-                        
-                            <h3>RSVP</h3>
-                            <h5>Kindly RSVP by December 20 2017</h5>
-                            <br>  
-                                                    
-                        	<form method="post" action="form.php" class="bio">
-                        		Name(s): <input type="text" name="name" size="30">
-                        		<br>
-                        		<span style="font-size: 12px !important;" > Please list full names of all attendees, including guests.</span>
-                        		<p>&nbsp;<p>
-                        		Total number of attendees (including yourself): <input type="text" name="numberguests" size="2" maxlength="1">
-                        		<p>&nbsp;<p>
-                        		I / We
-                        		<select name="attend">
-									<option name="yes">will</option>
-									<option name="no">will not</option>
-                        		</select>
-                        		be attending.
-                        		<p>&nbsp;<p>
-                        		Email: <input type="text" name="email" size="30">
-                        		<p>&nbsp;<p>
-                        		<input type="submit" value="Submit" class="btn m-btn-base">
-                        	</form>
-                        	
-                        	<!--
-                        	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxZN85fLpD55bolcGyWgjtwtbmhyKKRmU4tJnZQJ-jMThn4w/viewform?embedded=true" width="300" height="350" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-                        	-->
-                        	
+                            <div id="form-entry">
+                                <h3>RSVP</h3>
+                                <h5>Kindly RSVP by December 20 2017</h5>
+                                <br/>  
+                                <div id="form-error-message">Please check guest names and number of attendees.</div>
+                            	<form id="lb-rsvp" class="bio">
+                            		Name(s): <input type="text" name="guest-names" id="guest-names" placeholder="i.e., John Doe, Sarah Smith" size="30">
+                            		<br>
+                            		<span style="font-size: 12px !important;" > Please list full names of all attendees, including guests.</span>
+                            		<p>&nbsp;</p>
+                            		Total number of attendees (including yourself): <input type="text" name="guest-number" id="guest-number" size="2" maxlength="1">
+                            		<p>&nbsp;</p>
+                            		I / We
+                            		<select id="attending-status" name="attending-status">
+    									<option name="yes">will</option>
+    									<option name="no">will not</option>
+                            		</select>
+                            		be attending.
+                            		<br/><br/>
+                            		<input type="submit" value="Submit" class="btn m-btn-base">
+                            	</form>
+                            </div>
+                            <div id="form-success">
+                                <h3>Thank you for responding!</h3>
+                            </div>
                         </div>
                         
                         <div class="photo">
